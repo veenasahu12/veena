@@ -8,12 +8,12 @@
 - 🤔 I’m looking for help with developing AI skills..
 - 💬 Ask me about any MERN related stuff
 - 📫 How to reach me veenasahusbp@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
  <br>
  
 ## 🚀 Languages and Tools:
- <img align="right" alt="GIF" clear = "both" src="https://github.com/veenasahu12/veenasahu12/blob/master/code.gif?raw=true" width="440" height="250" />
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
@@ -37,7 +37,7 @@
 ## 📊 My Github Stats
 
 <br/>
-    <a href="https://github.com/Abhi-lab2/github-readme-stats"><img alt="Abhijeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veenasahu12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veenasahu12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
     </br>
   <a href="https://github.com/veenasahu12/github-readme-stats"><img alt="Abhi-lab2's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-lab2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -60,7 +60,7 @@
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/veenasahu12"><img src="https://github-profile-trophy.vercel.app/?username=veenasahu12&margin-w=5&theme=radical" alt="veena" /></a> </p>
+<p align="center"> <a href="https://github.com/veenasahu12"><img src="https://github-profile-trophy.vercel.app/?username=veenasahu12&margin-w=5&theme=radical" alt="veena's" /></a> </p>
  </details>
 
 
