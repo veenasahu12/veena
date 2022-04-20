@@ -13,7 +13,7 @@
  <br>
  
 ## 🚀 Languages and Tools:
- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 <p align="left"> 
     <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="html-5" /> 
     <img src="https://img.icons8.com/color/80/000000/css3.png" alt="css3" /> 
@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="68" height="68" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="68" height="68" />
     <img src="https://img.icons8.com/color/70/000000/npm.png"  alt="npm" />   
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" alt="postman" /> <br/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" alt="postman" /> 
     <img src="https://img.icons8.com/color/70/000000/git.png" alt="git" />
     
 </p>
