@@ -15,16 +15,16 @@
 ## 🚀 Languages and Tools:
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
 <p align="left"> 
-    <img src="https://img.icons8.com/color/68/000000/html-5.png" alt="html-5"/> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
-    <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="58" height="58"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="58" height="58"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="58" height="58"/>
-    <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>   
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" alt="postman"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+    <img src="https://img.icons8.com/color/70/000000/html-5.png" alt="html-5"/> 
+    <img src="https://img.icons8.com/color/70/000000/css3.png" alt="css3"/>
+    <img src="https://img.icons8.com/color/70/000000/javascript.png" alt="javascript"/>
+    <img src="https://img.icons8.com/officel/70/000000/react.png" alt="reactjs"  width="68" height="68"/>
+    <img src="https://img.icons8.com/color/70/000000/nodejs.png" alt="nodejs"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="68" height="68"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="68" height="68"/>
+    <img src="https://img.icons8.com/color/70/000000/npm.png"  alt="npm"/>   
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" alt="postman"/>
+    <img src="https://img.icons8.com/color/70/000000/git.png" alt="git"/>
     
 </p>
 
