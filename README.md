@@ -15,7 +15,7 @@
 ## 🚀 Languages and Tools:
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
+    <img src="https://img.icons8.com/color/68/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
     <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="58" height="58"/>
@@ -39,7 +39,7 @@
 <br/>
     <a href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veenasahu12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
     </br>
-  <a href="https://github.com/veenasahu12/github-readme-stats"><img alt="Abhi-lab2's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-lab2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-lab2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
