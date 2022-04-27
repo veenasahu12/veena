@@ -37,9 +37,9 @@
 ## 📊 My Github Stats :
 
 <br/>
-    <P align="left" href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veenasahu12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></P>
+    <P align="center" href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veenasahu12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></P>
     </br>
-  <p align="right" href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenasahu12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+  <p align="center" href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenasahu12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
