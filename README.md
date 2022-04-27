@@ -1,7 +1,7 @@
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Veena Sahu</a>!
-   
 </h2>
+<h3 align="center"> Full Stack Web Developer</h3>
 <h1>About Me</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
