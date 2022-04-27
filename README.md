@@ -37,7 +37,7 @@
 ## 📊 My Github Stats :
 
 <br/>
-    <P align="center" href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veenasahu12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></P>
+    <P align="center" href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veenasahu12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" width="480"/></P>
     </br>
   <p align="center" href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenasahu12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
   <br/>
