@@ -18,7 +18,7 @@
  <br>
  
 ## 🚀 Languages and Tools:
-<p align="left"> 
+<p align="center"> 
     <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="html-5" /> 
     <img src="https://img.icons8.com/color/80/000000/css3.png" alt="css3" /> 
     <img src="https://img.icons8.com/color/80/000000/javascript.png" alt="javascript" />
@@ -32,10 +32,6 @@
     
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## 📊 My Github Stats
