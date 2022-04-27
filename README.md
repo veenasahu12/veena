@@ -6,9 +6,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 <b>A Highly Motivated and Goal-Orieted Full-stack web developer</b> Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
-<br/>
-
-
+<br>
 - 🔭 I’m currently working on FrontEnd Development
 - 🌱 I’m currently learning MERN 
 - 🤔 I’m looking for help with developing AI skills..
@@ -18,12 +16,12 @@
  <br>
  
 ## 🚀 Languages and Tools:
- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="300" />
 <p align="left"> 
     <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="html-5" /> 
     <img src="https://img.icons8.com/color/80/000000/css3.png" alt="css3" /> 
     <img src="https://img.icons8.com/color/80/000000/javascript.png" alt="javascript" />
-    <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="68" height="68" /> <br/>
+    <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="68" height="68" /> 
     <img src="https://img.icons8.com/color/70/000000/nodejs.png" alt="nodejs" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="68" height="68" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="68" height="68" />
@@ -42,9 +40,9 @@
 ## 📊 My Github Stats
 
 <br/>
-    <a href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veenasahu12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+    <a align="right" href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Github Stats" src="https://github-readme-stats.vercel.app/api?username=veenasahu12&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
     </br>
-  <a href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenasahu12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a align="left" href="https://github.com/veenasahu12/github-readme-stats"><img alt="veena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenasahu12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
