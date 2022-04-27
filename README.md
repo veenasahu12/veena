@@ -4,7 +4,7 @@
 <h3 align="center"> Full Stack Web Developer</h3>
 <h1>About Me</h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" height="200">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" height="400">
 <b>A Highly Motivated and Goal-Orieted Full-stack web developer</b> Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 <br>
 
