@@ -20,7 +20,8 @@
  <h1>Connect with me :</h1>
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="100px" width="100" alt="linkedin" /> 
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60px" width="60" alt="linkedin" /> 
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="60px" width="60" alt="medium" /> 
   
   </p>
   
