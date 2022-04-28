@@ -22,7 +22,7 @@
  <a href="https://www.linkedin.com/in/veena-sahu/">
   <img align="left" alt="Veena's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
- <a href="https://medium.com/p/6400ec898c9a/edit">
+ <a href="https://medium.com/me/stories/drafts">
   <img align="left" alt="Veena's Medium" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
 </a>
   
