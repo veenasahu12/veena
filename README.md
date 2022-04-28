@@ -17,10 +17,10 @@
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
  <br>
  
- <h2>Connect with me :</h2>
- <hr/>
+ <h1>Connect with me :</h1>
+
  <p align="center">
-  <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60" alt="linkedin" /> 
+  <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60" height="100px" width="100" alt="linkedin" /> 
   
   </p>
   
