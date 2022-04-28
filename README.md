@@ -19,9 +19,12 @@
  
  <h1>Connect with me :</h1>
 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30px" width="30" alt="linkedin" /> 
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40px" width="40" alt="medium" /> 
+ <a href="https://www.linkedin.com/in/veena-sahu/">
+  <img align="left" alt="Veena's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+ <a href="https://medium.com/p/6400ec898c9a/edit">
+  <img align="left" alt="Veena's Medium" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+</a>
   
   </p>
   
