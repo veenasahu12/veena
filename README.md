@@ -3,7 +3,7 @@
 </h2>
 <h3 align="center"> Full Stack Web Developer</h3>
 <h1>About Me</h1>
-
+<img src="https://camo.githubusercontent.com/585cde70075211e52631f13db26f13364d96d657dfa08cba946f295db0cbf8aa/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a65657368616e2d6e61736972266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" height="300">
 <b>A Highly Motivated and Goal-Orieted Full-stack web developer</b> Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 <br>
@@ -20,7 +20,7 @@
  <h1>Connect with me :</h1>
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60px" width="60" alt="linkedin" /> 
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50px" width="50" alt="linkedin" /> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="60px" width="60" alt="medium" /> 
   
   </p>
