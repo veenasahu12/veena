@@ -22,7 +22,7 @@
  <a href="https://www.linkedin.com/in/veena-sahu/">
   <img align="left" alt="Veena's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
- <a href="https://medium.com/@veenasahusbp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@veenasahusbp" height="30" width="40" /></a>
+ <a href="https://medium.com/@veenasahusbp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@veenasahusbp" height="45" width="45" /></a>
   
   </p>
   
