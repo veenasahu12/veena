@@ -26,7 +26,7 @@
   </p>
   
   </br>
-<h1>## 🚀 Languages and Tools:</h1>
+<h1>🚀 Languages and Tools:</h1>
 <p align="center"> 
     <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="html-5" /> 
     <img src="https://img.icons8.com/color/80/000000/css3.png" alt="css3" /> 
