@@ -10,8 +10,6 @@
 
 
 - 🔭 I’m currently working on FrontEnd Development
-- 🌱 I’m currently learning MERN 
-- 🤔 I’m looking for help with developing AI skills..
 - 💬 Ask me about any MERN related stuff
 - 📫 How to reach me veenasahusbp@gmail.com
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
